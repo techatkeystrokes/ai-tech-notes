@@ -1,7 +1,3 @@
-Here’s a more detailed breakdown of the data with examples for better understanding:
-
----
-
 ### **Introduction to RAG (Retrieval Augmented Generation):**
 - **What is RAG?**
   - RAG combines retrieval-based methods with generative models (like LLMs) to improve the accuracy and relevance of responses.
